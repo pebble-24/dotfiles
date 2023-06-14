@@ -125,3 +125,5 @@ eval "$(thefuck --alias)"
 
 alias update-yay="yay -Syu"
 alias update-all="yay -Syu && flatpak update"
+
+export LFS=/mnt/lfs
